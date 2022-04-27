@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cwegner87
-- 👀 I’m interested in ...learning more about programing apps
-- 🌱 I’m currently learning ...data structures and algorithims
-- 💞️ I’m looking to collaborate on ...learning
+- 👀 I’m interested in ...learning more about programing apps and learning diffrent languages.
+- 🌱 I’m currently learning ...full stack web and Mobile Dev at Nucamp(bootcamp)
+- 💞️ I’m looking to collaborate on ...learning and ideas 
 - 📫 How to reach me ...cwegner1@live.maryville.edu
 
 <!---
