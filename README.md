@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cwegner87
-- 👀 I’m interested in ...learning more about programing apps and learning diffrent languages.
-- 🌱 I’m currently learning ...full stack web and Mobile Dev at Nucamp(bootcamp) and Studying for my Masters @ Maryville University St.Louis MO
-- 💞️ I’m looking to collaborate on ...learning something everyday and getting my start in Web Development with employment. 
+- 👋 Hi, I’m @cwegner87 Im a Jr. Mainframe Engineer at Cigna/Evernorth.
+- 👀 I’m interested in ...learning more about programing apps and learning diffrent languages. My repositories are alot of my current or past classwork at Nucamp bootcamp or Maryville University.
+- 🌱 I’m currently learning ...Mainframe on Z/OS and Studying for my Masters @ Maryville University in St.Louis, MO.
+- 💞️ I’m looking to collaborate on ...learning something everyday. 
 - 📫 How to reach me ...cwegner1@live.maryville.edu or coleson87@gmail.com
 
 <!---
