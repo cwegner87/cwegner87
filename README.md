@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cwegner87 Im a Jr. Mainframe Engineer at Cigna/Evernorth.
-- 👀 I’m interested in ...learning more about programing apps and learning diffrent languages. My repositories are of my current or past classwork at Nucamp bootcamp or Maryville University or my own personal exploration of code.
+- 👀 I’m interested in ...learning more about programing apps and learning diffrent languages. My repositories are of my current or past classwork at Nucamp bootcamp, Maryville University or my own personal exploration of code.
 - 🌱 I’m currently learning ...Mainframe on Z/OS and Studying for my Masters @ Maryville University in St.Louis, MO.
 - 💞️ I’m looking to collaborate on ...learning something everyday. 
 - 📫 How to reach me ...cwegner1@live.maryville.edu or coleson87@gmail.com
